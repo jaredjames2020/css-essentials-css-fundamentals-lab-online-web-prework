@@ -38,7 +38,6 @@ figcaption{
 
 #featured-property{
   display: inline;
-  text-align: center;
 }
 
 #featured-property p{
@@ -52,7 +51,7 @@ figcaption{
 }
 
 #details div{
-  float: left;
+  /*float: left;*/
   background-color: red;
   text-align: center;
   width: 25%;
