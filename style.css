@@ -12,9 +12,11 @@ h1 {
 nav{
     text-align:center;
 }
+
 nav li{
     display:inline;
 }
+
 nav a{
     display:inline-block;
     padding-right: 10px;
@@ -35,13 +37,13 @@ figcaption{
 }
 
 #featured-property{
-  display: block;
-  width: 800px;
+  display: inline;
 }
 
 #featured-property p{
   text-align: center;
   color: red;
+  width: 800px;
 }
 
 #details{
