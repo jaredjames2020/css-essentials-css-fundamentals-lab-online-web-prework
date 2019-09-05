@@ -35,6 +35,10 @@ figcaption{
 }
 
 #featured-property p{
+  display: block;
+}
+
+#featured-property p{
   display: inline-block;
   text-align: center;
   color: red;
