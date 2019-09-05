@@ -12,6 +12,8 @@ h1 {
 nav{
   text-align: center;
   color: gray;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 img{
