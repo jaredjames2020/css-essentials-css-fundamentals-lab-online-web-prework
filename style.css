@@ -36,8 +36,8 @@ figcaption{
   font-size: 10px;
 }
 
-#featured-property{
-  display: inline-block;
+#featured-property p{
+  display: block;
   text-align: center;
   color: red;
   width: 800px;
