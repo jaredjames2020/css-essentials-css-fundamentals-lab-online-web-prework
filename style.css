@@ -35,13 +35,13 @@ figcaption{
 }
 
 #featured-property{
-  display: block;
+  /*display: block;*/
+  width: 800px;
 }
 
 #featured-property p{
   text-align: center;
   color: red;
-  width: 800px;
 }
 
 #details{
