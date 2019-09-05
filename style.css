@@ -34,7 +34,7 @@ figcaption{
   font-size: 10px;
 }
 
-#featured-property p{
+#featured-property{
   display: inline-block;
   text-align: center;
   color: red;
