@@ -19,7 +19,7 @@ nav a{
     display:inline-block;
     padding-right: 10px;
     padding-left: 10px;
-    text-align:center;
+    text-align: center;
     background-color: gray;
 }
 
@@ -34,7 +34,11 @@ figcaption{
   font-size: 10px;
 }
 
-#featured-property p{
+#featured-property {
+  display: inline-block;  
+}
+
+p{
   display: inline-block;
   text-align: center;
   color: red;
