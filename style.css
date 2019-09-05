@@ -34,7 +34,8 @@ figcaption{
   font-size: 10px;
 }
 
-#fep{
+#featured-property p{
   text-align: center;
+  color: red;
   
 }
