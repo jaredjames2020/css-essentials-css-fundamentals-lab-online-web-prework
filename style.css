@@ -38,6 +38,7 @@ figcaption{
 
 #featured-property{
   display: inline;
+  text-align: center;
 }
 
 #featured-property p{
